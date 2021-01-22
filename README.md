@@ -1,4 +1,4 @@
-# BIOINFORMATICS HUB
+# Bioinformatics Hub
 The slack bioinformaticshub workspace is a platform specifically created to discuss bioinformatics among community of scientists and researchers in Nigeria.
 
 To join the bioinformatics slack workspace, simply click on the [link](http://bioinformaticshub.slack.com)
