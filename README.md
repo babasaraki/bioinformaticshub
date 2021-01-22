@@ -1,0 +1,2 @@
+# bioinformaticshub
+bioinformaticshub.slack.com
